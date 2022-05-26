@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thegitway&label=Profile%20views&color=0e75b6&style=flat" alt="thegitway" /> </p>
 
-- 🔭 I’m currently working on **monitoring web app for IoT devices**
+- 🔭 I’m currently working on a **monitoring web app for IoT devices**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/oukil/home](https://sites.google.com/view/oukil/home)
 
