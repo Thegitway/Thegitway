@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/oukil/home](https://sites.google.com/view/oukil/home)
 
-- 💬 Ask me about **flutter, dart, react, node.js**
+- 💬 Ask me about **Spring boot, React, AWS, Flutter, Dart, Node.js, Docker**
 
 - 📫 How to reach me **omaroukil.dev@gmail.com**
 
